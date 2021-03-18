@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>To-Do List</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+  </head>
+
+  <body>
+    <div id="container">
+      <div id="header">        
+        <h1 id="mainTitle">Task Management</h1>
+        <div id="inputUI">
+          <input id="todoInput" placeholder="Add to-do..." 
+          type="text" maxlength="50">
+          <button id="submitButton">Add</button>
+        </div>
+      </div>
+      <div id="todoList">
+          <ul id="todos"></ul>
+          <button id="deleteButton">Delete all</button>
+      </div>
+    </div>
+
+    <script src="js/index.js"></script>
+  </body>
+</html>
