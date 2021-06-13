@@ -1,3 +1,16 @@
+## JavaScript Task Management App
+
+Simple to-do app built with vanilla JavaScript.
+
+### To-do
+- [ ] LocalStorage
+- [ ] Styling update
+- [ ] Sub-tasks
+- [ ] Title, favicon, general updates
+
+
+See this Integrify assessment's instructions below.
+***
 
 ## Create a Task Management App
 
