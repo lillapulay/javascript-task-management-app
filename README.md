@@ -6,6 +6,8 @@ Simple to-do app built with vanilla JavaScript.
 - [ ] LocalStorage
 - [ ] Styling update
 - [ ] Sub-tasks
+- [ ] Update delete all prompt when list is empty
+- [ ] Delete prompt for single task
 - [ ] Title, favicon, general updates
 
 
